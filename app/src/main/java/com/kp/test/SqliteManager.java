@@ -6,6 +6,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import static androidx.room.ColumnInfo.TEXT;
 
+
 public class SqliteManager extends SQLiteOpenHelper implements AppConstants {
     //public static final String DATABASE_NAME = "test.db";
     public static final int version = 1;
