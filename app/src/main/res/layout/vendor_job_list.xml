@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <RelativeLayout
+
+        android:orientation="horizontal"
+        android:padding="@dimen/margin_5"
+        android:background="@color/bgBottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/margin_50">
+
+        <ImageView
+            android:id="@+id/iv_setting"
+           android:layout_alignParentRight="true"
+            android:layout_gravity="start"
+            android:padding="@dimen/padding_10"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_settings_white_24dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="@dimen/text_size_16sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:text="Job Detail"
+            />
+
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_job_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/iv_add_item"
+        android:layout_width="@dimen/margin_50"
+        android:src="@drawable/add_green"
+        android:visibility="visible"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/margin_50"
+        android:layout_alignParentRight="true"
+        android:layout_height="@dimen/margin_50" />
+</RelativeLayout>
+</layout>

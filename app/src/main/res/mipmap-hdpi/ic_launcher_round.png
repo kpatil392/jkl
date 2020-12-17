@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Koupon</string>
+
+    <string name="sms_keyword">CRICII</string>
+
+    <!--Dialogue-->
+    <string name="Whoops">Whoops!</string>
+    <string name="check_connection">Unable to make a connection with remote server. Either please check your internet connection or try after some time.</string>
+    <string name="aproval">Your registration was successful.To approve your account, please contact to administrator.</string>
+    <string name="ok">OK</string>
+    <string name="confirmation_title">Confirmation </string>
+    <string name="validation_title">Whoops!</string>
+    <string name="server_error">Can not connect to server! Please try again.</string>
+    <string name="network_error">No internet connection, please connect your phone to wifi or data connection.</string>
+    <string name="no_provider_available">No any viist</string>
+    <string name="congradulation">Congradulation</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="complete_your_purchase_faster">Complete Your Purchase faster</string>
+
+    <!--Sign In-->
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password_with_question_mark">Forgot Password?</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="field_is_must">Field is must.</string>
+    <string name="please_enter_valid_mobile_number">Please enter valid mobile number.</string>
+    <string name="please_enter_valid_email">Please enter valid email.</string>
+    <string name="emaill">\u0020E-MAIL</string>
+
+    <!--Sign Up-->
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="please_enter_valid_name">Please enter valid name.</string>
+    <string name="enter_name">Enter your name to create ana account made just for you.</string>
+    <string name="ddate_of_birth">Date of Birth</string>
+    <string name="your_date_of_birth">Your date of birth help us to personalize contect for you,Don\' worry,none else is going to see it.</string>
+    <string name="your_email_will_be">Your email will be used to login your koupon account.</string>
+    <string name="your_password">Your Password must be 6 characters or longer.Try make it safe with adding symbols like!," or %.</string>
+    <string name="would_you_like_to">Would you like to receive personalized notifications about deals ? You can by specifying you gender !</string>
+    <string name="next">Next</string>
+    <string name="password_and_confirm_password_should_be_same">Password and confirm password should
+        be same.</string>
+    <string name="please_select_gender">Please select gender.</string>
+
+    <!--Forgot Password-->
+    <string name="submit">Submit</string>
+    <string name="we_have_sent_you_link_of_password_on_your_registered_email_address">We have sent you
+    link of password on your registered email address</string>
+
+    <!--My Dashboard-->
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="hello">Hello,Devit</string>
+    <string name="from_your">From Your My Account Dashboard</string>
+    <string name="account_information">Account Information</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="edit">Edit</string>
+    <string name="devit">Devit</string>
+    <string name="testmail">test@gmail.com</string>
+    <string name="change_password">Change Password</string>
+    <string name="newsletters">Newsletters</string>
+    <string name="you_are_current">you are current not Subcribed to any newsletter.</string>
+    <string name="address_book">Address Book</string>
+    <string name="manage_address">Manage Addresses</string>
+    <string name="default_billing_address">Default Billing Address</string>
+    <string name="you_have_not_set">You have not set a default billing address.</string>
+    <string name="edit_address">Edit Address</string>
+    <string name="sign_in_or_register">Sign in or Register</string>
+    <string name="main_deal">Main Deal</string>
+    <string name="my_order">My Order</string>
+
+
+
+    <string name="payment_method">Payment mode</string>
+    <string name="knet">Knet</string>
+    <string name="visa_and_mastercard">Visa and Mastercard</string>
+    <string name="american_express">American Express</string>
+    <string name="paypal">PayPal</string>
+    <string name="review_your_order">Review your order</string>
+    <string name="product">Product</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="save_44_on">save 44 5 on Hand Fill</string>
+    <string name="kd5">KD50</string>
+    <string name="needle">Needle 1(ml) from curve</string>
+    <string name="beauty_clinic">Beauty Clinic</string>
+    <string name="mcdodo">mcdodo 1.2m lightning</string>
+    <string name="kd10">KD10.5</string>
+    <string name="charging_cable">Charging cable</string>
+    <string name="coupan_code">Coupan code:</string>
+    <string name="apply_coupon">Apply coupon</string>
+    <string name="place_order_now">Place Order Now</string>
+
+
+
+
+    <string name="buy_now">Buy 
